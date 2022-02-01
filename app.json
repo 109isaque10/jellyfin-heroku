@@ -1,0 +1,8 @@
+{
+  "name": "Jellyfin heroku",
+  "description": "Jellyfin",
+  "repository": "https://github.com/109isaque10/jellyfin-heroku",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
+
